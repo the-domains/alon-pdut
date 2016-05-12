@@ -1,0 +1,28 @@
+name: Alon Pdut
+favicon: null
+layout_spectrum: 0.5019930698908865
+typography_spectrum: 0.9299603370018303
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.08070283988490701
+  lightness: 0.06909118359908462
+  saturation: 0.4721936930436641
+  rhythmicContrast: 0.4825953673571348
+purpose: []
